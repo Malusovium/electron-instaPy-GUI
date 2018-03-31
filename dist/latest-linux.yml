@@ -1,0 +1,9 @@
+version: 0.5.0
+files:
+  - url: InstaPyGUI-0.5.0-x86_64.AppImage
+    sha512: aaetVgmUNSPqowf+PS5fv7oWm8hLIjAeeQjy7xFD0FBakc7S7kfvq0g8DEGw40tnBcJpA82LeWXlrmxUt12Tcg==
+    size: 50931553
+    blockMapSize: 53413
+path: InstaPyGUI-0.5.0-x86_64.AppImage
+sha512: aaetVgmUNSPqowf+PS5fv7oWm8hLIjAeeQjy7xFD0FBakc7S7kfvq0g8DEGw40tnBcJpA82LeWXlrmxUt12Tcg==
+releaseDate: '2018-03-31T10:20:18.205Z'
